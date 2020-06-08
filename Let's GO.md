@@ -88,13 +88,13 @@ func main(){
 
 **案例截图**
 
-![image-20200609002026521](E:\Typora\data\assert\image-20200609002026521.png)
+![image-20200609002026521](.\asserts\image-20200609002026521.png)
 
 **练习题**
 
 > 请使用一句话输出下图效果
 
-![image-20200609002419069](E:\Typora\data\assert\image-20200609002419069.png)
+![image-20200609002419069](.\asserts\image-20200609002419069.png)
 
 ```go
 package main
@@ -105,6 +105,3 @@ func main(){
 	fmt.Println("姓名\t年龄\t籍贯\t住址\njohn\t12\t河北\t北京")
 }
 ```
-
-
-
